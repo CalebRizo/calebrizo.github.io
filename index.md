@@ -3,4 +3,7 @@
 Currently writing description...
 
 ### Contact
-![LinkedIn logo](https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-512.png)
+[![LinkedIn logo](linkedin)](linkedin_profile)
+
+[linkedin_profile]: https://www.linkedin.com/in/caleb-rizo/
+[linkedin]: https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-512.png
