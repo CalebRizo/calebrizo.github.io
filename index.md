@@ -4,6 +4,8 @@ I'm a junior Full Stack developer eager to learn and stay tuned with cutting edg
 
 I started as a Back-end developer but I'm very interested in improve my skills and knowledge of UI/UX and Front-end development.
 
+Currently studying a Diploma in Innovation and Entrepreneurship at Tamwood International College Ltd.
+
 ### Skills
 
 * Back-end
